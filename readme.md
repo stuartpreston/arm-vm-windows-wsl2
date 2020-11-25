@@ -1,6 +1,6 @@
-# arm-vm-customregion
+# arm-vm-windows-wsl2
 
-A quick ARM template to demonstrate installation of WSL2 in the OS customization phase (before the first user can logon). Based off the [101-vm-simple-windows Quickstart Template](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-windows)
+A quick ARM template to demonstrate installation of WSL2 prequisites in the OS customization phase (before the first user can logon). Based off the [101-vm-simple-windows Quickstart Template](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-windows)
 
 ## Usage
 
